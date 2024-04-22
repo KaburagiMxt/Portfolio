@@ -11048,3 +11048,10 @@ html {
   width: 25rem;
   height: 30rem;
 }
+
+.backgroundmain {
+  background-image: url("../assets/img/portfolio/UniversAstFern.jpg");
+  background-size:cover;
+	background-position: right center;
+
+}
