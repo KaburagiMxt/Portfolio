@@ -11049,13 +11049,7 @@ html {
   height: 30rem;
 }
 
-.backgroundmain {
-  background-image: url("../assets/img/portfolio/UniversAstFern.jpg");
-  background-size:cover;
-	background-position: right center;
 
-
-}
 
 #name { text-decoration-color: white;}
 
@@ -11071,56 +11065,84 @@ html {
 
 @media screen and (max-width: 600px) {
   .backgroundmain {
-    width: 100%;
-    background-size: cover;
+    background-image: url("../assets/img/portfolio/UniversStar_out.jpg");
+    background-size:cover;
+    background-position: right center;
+    width: 100%	;
+  
+  
   }
  
 }
 
 @media screen and (min-width: 600px) {
   .backgroundmain {
-    width: 100%;
-    background-size: cover;
+    background-image: url("../assets/img/portfolio/UniversStar_out.jpg");
+    background-size:cover;
+    background-position: right center;
+    width: 100%	;
+  
+  
   }
  
 }
 @media screen and (min-width: 768px) {
   .backgroundmain {
-    width: 100%;
-    background-size: cover;
+    background-image: url("../assets/img/portfolio/UniversStar_out.jpg");
+    background-size:cover;
+    background-position: right center;
+    width: 100%	;
+  
+  
   }
 }
 @media screen and (min-width: 992px) {
   .backgroundmain {
-    width: 100%;
-    background-size: cover;
+    background-image: url("../assets/img/portfolio/UniversStar_out.jpg");
+    background-size:cover;
+    background-position: right center;
+    width: 100%	;
+  
   }
 }
 @media screen and (min-width: 1200px) {
   .backgroundmain {
-    width: 100%;
-    background-size: cover;
+    background-image: url("../assets/img/portfolio/UniversStar_out.jpg");
+    background-size:cover;
+    background-position: right center;
+    width: 100%	;
+  
   }
 }
 
 @media screen and (min-width: 1400px) {
   .backgroundmain {
-    width: 100%;
-    background-size: cover;
+    background-image: url("../assets/img/portfolio/UniversStar_out.jpg");
+    background-size:cover;
+    background-position: right center;
+    width: 100%	;
+  
+  
   }
-}
 
 
 @media screen and (min-width: 1600px) {
   .backgroundmain {
-    width: 100%;
-    background-size: cover;
+    background-image: url("../assets/img/portfolio/UniversStar_out.jpg");
+    background-size:cover;
+    background-position: right center;
+    width: 100%	;
+  
   }
 }
 
 @media screen and (min-width: 1800px) {
   .backgroundmain {
-    width: 100%;
-    background-size: cover;
+    background-image: url("../assets/img/portfolio/UniversStar_out.jpg");
+    background-size:cover;
+    background-position: right center;
+    width: 100%	;
+  
   }
+}
 }
