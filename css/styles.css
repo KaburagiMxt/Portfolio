@@ -10978,7 +10978,8 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 15rem;
+  width: 30rem; /* Passe die Größe nach Bedarf an */
+  height: auto; /* Behält das Seitenverhältnis bei */
 }
 
 @media (min-width: 992px) {
